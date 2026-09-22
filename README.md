@@ -54,7 +54,7 @@ Instant Automated Reply to User ⚡
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/rishabhyadav47383/rishabh-whatsapp-bot.git
+git clone https://github.com/rishu-builds/rishabh-whatsapp-bot.git
 cd rishabh-whatsapp-bot
 ```
 
@@ -100,5 +100,5 @@ docker run -d -p 3000:3000 --name whatsapp-bot --env-file .env rishabh-whatsapp-
 
 **Rishabh Yadav**  
 - 💼 LinkedIn: [Rishabh Yadav](https://www.linkedin.com/in/rishabh-yadav-00a235349)  
-- 💻 GitHub: [@rishabhyadav47383](https://github.com/rishabhyadav47383)  
+- 💻 GitHub: [@rishu-builds](https://github.com/rishu-builds)  
 - ✉️ Email: [ysrishabh017@gmail.com](mailto:ysrishabh017@gmail.com)
