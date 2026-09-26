@@ -99,6 +99,6 @@ docker run -d -p 3000:3000 --name whatsapp-bot --env-file .env rishabh-whatsapp-
 ## 👨‍💻 Author
 
 **Rishabh Yadav**  
-- 💼 LinkedIn: [Rishabh Yadav](https://www.linkedin.com/in/rishabh-yadav-00a235349)  
+- 💼 LinkedIn: [Rishabh Yadav](https://www.linkedin.com/in/rishabh-yadav777/)  
 - 💻 GitHub: [@rishu-builds](https://github.com/rishu-builds)  
 - ✉️ Email: [ysrishabh017@gmail.com](mailto:ysrishabh017@gmail.com)
