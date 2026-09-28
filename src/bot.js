@@ -22,17 +22,9 @@ import { reminderManager } from './utils/reminderManager.js';
 
 console.log(`
 ================================================================================
-  _____  _____  _____ _    _          ____  _    _            _____ 
- |  __ \\|_   _|/ ____| |  | |   /\\   |  _ \\| |  | |     /\\   |_   _|
- | |__) | | | | (___ | |__| |  /  \\  | |_) | |__| |    /  \\    | |  
- |  _  /  | |  \\___ \\|  __  | / /\\ \\ |  _ <|  __  |   / /\\ \\   | |  
- | | \\ \\ _| |_ ____) | |  | |/ ____ \\| |_) | |  | |  / ____ \\ _| |_ 
- |_|  \\_\\_____|_____/|_|  |_/_/    \\_\\____/|_|  |_| /_/    \\_\\_____|
-================================================================================
-  🤖 ${config.botName} - Ultra-Premium Real WhatsApp UserBot
-  👑 Creator & Owner:     ${config.ownerName}
-  🏢 Organization:        ${config.businessName}
-  🧠 AI Brain:            ${config.geminiModel}
+  ${config.botName} - WhatsApp Assistant
+  Creator:      ${config.ownerName}
+  Model:        ${config.geminiModel}
 ================================================================================
 `);
 

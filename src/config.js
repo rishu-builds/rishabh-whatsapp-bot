@@ -3,8 +3,8 @@ dotenv.config();
 
 export const config = {
   // AI Engine
-  geminiApiKey: process.env.GEMINI_API_KEY || 'AQ.Ab8RN6JMk0W9lcgQRbvIMoShynLfMkLxrV5p4XRxgwnTkxyQfw',
-  geminiModel: process.env.GEMINI_MODEL || 'gemini-3.6-flash',
+  geminiApiKey: process.env.GEMINI_API_KEY || '',
+  geminiModel: process.env.GEMINI_MODEL || 'gemini-1.5-flash',
 
   // Bot & Owner Branding
   botName: process.env.BOT_NAME || 'Rishabh AI',

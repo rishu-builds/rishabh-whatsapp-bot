@@ -1,13 +1,12 @@
-# 🤖 Rishabh AI — Enterprise 24/7 WhatsApp Multimodal Bot & CRM
+# 🤖 WhatsApp AI Assistant & CRM Bot
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Runtime](https://img.shields.io/badge/Node.js%20%2F%20Python-Backend-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Runtime](https://img.shields.io/badge/Node.js-Backend-3776AB?style=flat&logo=node.js&logoColor=white)](#)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI_Engine-8E75C2?style=flat&logo=google&logoColor=white)](#)
-[![WhatsApp Cloud API](https://img.shields.io/badge/Meta_WhatsApp-Cloud_API-25D366?style=flat&logo=whatsapp&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-CRM_Database-003B57?style=flat&logo=sqlite&logoColor=white)](#)
 
-An intelligent, cloud-native **24/7 WhatsApp AI Assistant and CRM Lead Automation System** engineered with **Meta WhatsApp Cloud API** and **Google Gemini AI**. Built to handle high-concurrency customer inquiries, multimodal image/voice document understanding, and automated CRM database lead logging.
+A WhatsApp assistant and customer lead management bot built with **Node.js** and **Google Gemini AI**. Handles incoming inquiries, voice note transcription, image understanding, and automated CRM lead logging into SQLite.
 
 ---
 
